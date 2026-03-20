@@ -1,7 +1,10 @@
 # Logarithm rules
 
 ```math
--1-
+(1)
+```
+```math
+--
 ```
 ```math
 \begin{cases} \log_{e}(x) = z \cdot 1 \leftarrow e^{z^{1}} = e^{z \cdot 1} = x\\
@@ -17,7 +20,10 @@
 --
 ```
 ```math
--2-
+(2)
+```
+```math
+--
 ```
 ```math
 \begin{cases} m = log_{e}(x)\\
@@ -29,4 +35,7 @@ e^{n} = y \end{cases}
 ```
 ```math
 
+```
+```math
+--
 ```
